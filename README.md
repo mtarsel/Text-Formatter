@@ -4,6 +4,9 @@ Text-Formatter
 To run:
 
 gcc formatter.c
+
+
+
 ./a.out ipsum.txt
 
 
